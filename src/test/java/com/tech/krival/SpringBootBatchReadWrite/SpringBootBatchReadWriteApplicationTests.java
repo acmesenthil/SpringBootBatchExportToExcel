@@ -2,8 +2,6 @@ package com.tech.krival.SpringBootBatchReadWrite;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
-import static org.junit.Assert.assertEquals;
-
 import java.util.Collection;
 
 import org.springframework.batch.core.StepExecution;
